@@ -72,11 +72,13 @@ Final Steps
 	•	Apply the selected FIR filter to the noisy audio.
 	•	Plot the frequency spectrum before and after filtering.
 	•	Observe the significant reduction in the 15.2 kHz interference.
+ 
 ⸻
 
 Requirements
 	•	MATLAB (with Signal Processing Toolbox)
 	•	Audio file for analysis
+ 
 ⸻
 
 Conclusion
